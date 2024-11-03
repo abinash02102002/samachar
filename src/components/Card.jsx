@@ -25,4 +25,3 @@ function Card({ news }) {
 }
 
 export default Card;
-
